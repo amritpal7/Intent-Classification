@@ -22,33 +22,33 @@
     ],
     "common_examples": [
       {
-        "text": "hey", 
-        "intent": "greet", 
+        "text": "hey",
+        "intent": "greet",
         "entities": []
       },
       {
-        "text": "hey", 
-        "intent": "greet", 
+        "text": "hey",
+        "intent": "greet",
         "entities": []
       },
       {
-        "text": "howdy", 
-        "intent": "greet", 
+        "text": "howdy",
+        "intent": "greet",
         "entities": []
-      }, 
+      },
       {
         "text": "hey there",
-        "intent": "greet", 
+        "intent": "greet",
         "entities": []
-      }, 
+      },
       {
-        "text": "hello", 
-        "intent": "greet", 
+        "text": "hello",
+        "intent": "greet",
         "entities": []
-      }, 
+      },
       {
-        "text": "hi", 
-        "intent": "greet", 
+        "text": "hi",
+        "intent": "greet",
         "entities": []
       },
       {
@@ -67,83 +67,28 @@
         "entities": []
       },
       {
-        "text": "yes", 
-        "intent": "affirm", 
-        "entities": []
-      }, 
-      {
-        "text": "yep", 
-        "intent": "affirm", 
-        "entities": []
-      }, 
-      {
-        "text": "yeah", 
-        "intent": "affirm", 
+        "text": "bye",
+        "intent": "goodbye",
         "entities": []
       },
       {
-        "text": "indeed",
-        "intent": "affirm",
+        "text": "goodbye",
+        "intent": "goodbye",
         "entities": []
       },
       {
-        "text": "that's right",
-        "intent": "affirm",
+        "text": "good bye",
+        "intent": "goodbye",
         "entities": []
       },
       {
-        "text": "ok",
-        "intent": "affirm",
+        "text": "stop",
+        "intent": "goodbye",
         "entities": []
       },
       {
-        "text": "great",
-        "intent": "affirm",
-        "entities": []
-      },
-      {
-        "text": "right, thank you",
-        "intent": "affirm",
-        "entities": []
-      },
-      {
-        "text": "correct",
-        "intent": "affirm",
-        "entities": []
-      },
-      {
-        "text": "great choice",
-        "intent": "affirm",
-        "entities": []
-      },
-      {
-        "text": "sounds really good",
-        "intent": "affirm",
-        "entities": []
-      },
-      {
-        "text": "bye", 
-        "intent": "goodbye", 
-        "entities": []
-      }, 
-      {
-        "text": "goodbye", 
-        "intent": "goodbye", 
-        "entities": []
-      }, 
-      {
-        "text": "good bye", 
-        "intent": "goodbye", 
-        "entities": []
-      }, 
-      {
-        "text": "stop", 
-        "intent": "goodbye", 
-        "entities": []
-      }, 
-      {
-        "text": "end", 
-        "intent": "goodbye", 
+        "text": "end",
+        "intent": "goodbye",
         "entities": []
       },
       {
@@ -172,53 +117,65 @@
       {
         "text": "The Company Takes Too Long To Respond",
         "intent": "angry"
-      },     
+      },
       {
         "text": "The Customer Service Rep Was Not Professional",
         "intent": "angry"
-      },      
+      },
       {
         "text": "The Staff Couldn’t Do Much To Help Me",
         "intent": "angry"
-      },      
+      },
       {
         "text": "My Agent Seemed Like A Novice",
         "intent": "angry"
       },
-       {
+      {
         "text": "I Received An Unrelated Copy/Paste Answer",
         "intent": "angry"
-      },    
+      },
       {
         "text": "My Agent Seemed Like A Novice",
         "intent": "angry"
-      },     
+      },
       {
         "text": "I Was Unable To Talk To A Human",
         "intent": "angry"
-      },    
+      },
       {
         "text": "My Agent Seemed Like A Novice",
         "intent": "angry"
-      },     
+      },
       {
         "text": "I Keep Getting Transferred/Disconnected",
         "intent": "angry"
-      },      
+      },
       {
         "text": "They Didn’t Respond To My Problem On Social Media",
         "intent": "angry"
-      },     
+      },
       {
-        "text": "Long Wait on Hold",
+        "text": "Long Wait",
         "intent": "angry"
       },
       {
-        "text": "Unavailable or Out of Stock Product",
+        "text": "Unavailable",
         "intent": "angry"
       },
-            {
-        "text": "Poor Product or Service",
+      {
+        "text": "Unproffessional behavior",
+        "intent": "angry"
+      },
+      {
+        "text": "Poor Product",
+        "intent": "angry"
+      },
+      {
+        "text": "Poor service",
+        "intent": "angry"
+      },
+      {
+        "text": "Poor",
         "intent": "angry"
       }
     ]
