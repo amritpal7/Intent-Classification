@@ -182,7 +182,51 @@
       {
         "text": "Poor",
         "intent": "angry"
-      }
+      },
+      {
+        "text": "The service is smooth and straightforward",
+        "intent": "happy"
+      },
+      {
+        "text": "smooth and straightforward",
+        "intent": "happy"
+      },
+      {
+        "text": "Great service",
+        "intent": "happy"
+      },
+      {
+        "text": "Excellent customer service",
+        "intent": "happy"
+      },
+      {
+        "text": "Very polite and helpful customer service",
+        "intent": "happy"
+      },
+      {
+        "text": "Great service, efficient communication",
+        "intent": "happy"
+      },
+      {
+        "text": "good service",
+        "intent": "happy"
+      },
+      {
+        "text": "good",
+        "intent": "happy"
+      },
+            {
+        "text": "great",
+        "intent": "happy"
+      },
+      {
+        "text": "nice",
+        "intent": "happy"
+      },
+      {
+        "text": "very good",
+        "intent": "happy"
+      },
     ]
   }
 }
