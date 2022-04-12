@@ -105,6 +105,11 @@
         "text": "have a good one",
         "intent": "goodbye",
         "entities": []
+      }
+      ,
+      {
+        "text": "refund",
+        "intent": "angry"
       },
       {
         "text": "I want my refund",
